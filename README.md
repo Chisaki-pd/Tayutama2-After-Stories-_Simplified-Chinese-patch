@@ -1,4 +1,4 @@
-[bg.png]
+(bg.png)
 # 《游魂2 -After Stories-》简体中文汉化补丁
 
 本页有关内容借鉴和使用了下面的项目：[夏梦方糖社同好会——游魂2 FD - After Stories -  开源汉化补丁](https://github.com/k25c2yf/BGI_utf8_for-Tayutama2AS)
@@ -13,7 +13,9 @@ Lump of sugar 是 方糖社 (https://lumpofsugar.co.jp) 的商标。
 
 注意：介于原游戏年龄限制，如果您未满18周岁，请不要访问和下载本页所有内容！！！
 
-其他的相关链接：BiliBili[【汉化】游魂2 -After Stories-】](https://www.bilibili.com/video/BV1dEjA6yEvH)    [touchgal](https://www.touchgal.ink/c6c523e6)    [VNDB](https://vndb.org/v20340)
+其他的相关链接：[BiliBili:【汉化】游魂2 -After Stories-](https://www.bilibili.com/video/BV1dEjA6yEvH)    [touchgal](https://www.touchgal.ink/c6c523e6)    [VNDB](https://vndb.org/v20340)
+
+如有bug请及时反馈，在此感谢。
 
 # 声明
 
