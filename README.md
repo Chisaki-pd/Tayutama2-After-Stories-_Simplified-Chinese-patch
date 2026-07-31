@@ -103,11 +103,11 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 下载文件后，解压文件。你会得到以下文件。
 
-![安装1]（./install1.png）
+![安装1](./install1.png)
 
 我们需要把TayutamaAS-utf8_CHS.exe，tytm2as.cn文件复制到游戏根目录下，双击运行TayutamaAS-utf8_CHS.exe。
 
-![安装2]（./install2.png）
+![安装2](./install2.png)
 
 压缩包内附带字体文件“思源黑体M”，推荐安装使用该字体。
 
