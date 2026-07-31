@@ -1,0 +1,2 @@
+请确保系统已部署ffmpeg环境。
+ffmpeg -i "output1.20.mp4" -r 30 -b:v 8000k "example.mpg"
