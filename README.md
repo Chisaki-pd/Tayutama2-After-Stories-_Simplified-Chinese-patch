@@ -13,8 +13,7 @@ Lump of sugar 是 方糖社 (https://lumpofsugar.co.jp) 的商标。
 
 注意：介于原游戏年龄限制，如果您未满18周岁，请不要访问和下载本页所有内容！！！
 
-其他的相关链接：BiliBili[【汉化】游魂2 -After Stories-】](https://www.bilibili.com/video/BV1dEjA6yEvH)    
-[touchgal](https://www.touchgal.ink/c6c523e6)    [VNDB](https://vndb.org/v20340)
+其他的相关链接：BiliBili[【汉化】游魂2 -After Stories-】](https://www.bilibili.com/video/BV1dEjA6yEvH)    [touchgal](https://www.touchgal.ink/c6c523e6)    [VNDB](https://vndb.org/v20340)
 
 # 声明
 
@@ -112,11 +111,11 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 **主程序TayutamaAS-utf8_CHS.exe借鉴使用了夏梦方糖社同好会的开源项目，在此表示感谢**
 
-# staff
+# Staff
 
 CG修改＆嵌字：-List-＆紫陌寒煙
 
-程序＆脚本修改＆封包：-List-
+程序＆脚本修改＆封包：-List-  (https://space.bilibili.com/700095337)
 
 文本：DeepSeek推理翻译+人工校对
 
