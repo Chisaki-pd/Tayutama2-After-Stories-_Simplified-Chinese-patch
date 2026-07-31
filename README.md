@@ -1,4 +1,4 @@
-(bg.png)
+![封面](./bg.png)
 # 《游魂2 -After Stories-》简体中文汉化补丁
 
 本页有关内容借鉴和使用了下面的项目：[夏梦方糖社同好会——游魂2 FD - After Stories -  开源汉化补丁](https://github.com/k25c2yf/BGI_utf8_for-Tayutama2AS)
@@ -17,7 +17,7 @@ Lump of sugar 是 方糖社 (https://lumpofsugar.co.jp) 的商标。
 
 如有bug请及时反馈，在此感谢。
 
-# 声明
+## 声明
 
 简中汉化补丁系列，由-List-和紫陌寒煙合作完成。
 
@@ -35,7 +35,7 @@ Lump of sugar 是 方糖社 (https://lumpofsugar.co.jp) 的商标。
 
 请点击Releases部分下载正式补丁和汉化项目的原文件。下载时，我们默认您已接受上述许可协议。
 
-# 游戏介绍
+## 游戏介绍
 
 鷹千帆市 矢古民（やこたみ）町在全国来说是一个能够聚集特别优质的神气的地方。
 
@@ -60,7 +60,7 @@ Lump of sugar 是 方糖社 (https://lumpofsugar.co.jp) 的商标。
 
 【文本来源于touchgal】
 
-# License
+## License
 
 采用 The GNU Affero General Public License. AGPL v3 协议进行许可。
 
@@ -93,7 +93,7 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 此外，本仓库的所有内容请勿用于任何其他用途，仅允许个人测试、学习和交流使用，禁止一切转载与二次分发
 
 
-# 补丁安装
+## 补丁安装
 
 下载链接1：[GitHub]（）选择下载汉化补丁包（约219MB），解压密码：0721。
 
@@ -103,17 +103,17 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 下载文件后，解压文件。你会得到以下文件。
 
-（install1.png）
+[安装1]（install1.png）
 
 我们需要把TayutamaAS-utf8_CHS.exe，tytm2as.cn文件复制到游戏根目录下，双击运行TayutamaAS-utf8_CHS.exe。
 
-（install2.png）
+[安装2]（install2.png）
 
 压缩包内附带字体文件“思源黑体M”，推荐安装使用该字体。
 
 **主程序TayutamaAS-utf8_CHS.exe借鉴使用了夏梦方糖社同好会的开源项目，在此表示感谢**
 
-# Staff
+## Staff
 
 CG修改＆嵌字：-List-＆紫陌寒煙
 
