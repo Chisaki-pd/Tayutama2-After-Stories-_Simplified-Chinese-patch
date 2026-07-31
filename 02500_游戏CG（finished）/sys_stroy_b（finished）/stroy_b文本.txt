@@ -1,0 +1,27 @@
+sys_story_b11 人太祭 開催中! 
+sys_story_b21 新妻はアイドルの夢を見るか？
+sys_story_b22 ミレディの休日
+sys_story_b23 一方そのころ･･･ /n※ししょー、裏方にて活躍中
+sys_story_b24 帰ってきた場所で
+sys_story_b31-32-34 冤罪事件 発生中！Lost 
+sys_story_b33 ヌエヲサガセ
+sys_story_b41-42-44（左上） YKT3ライブ！ 
+sys_story_b43（左上） しろくろMC! 
+sys_story_b51 奥さんは太転依巫女アイドル!
+sys_story_b52 夜のミレディ
+sys_story_b53 さいきょーのふたり
+sys_story_b54 ただ一人のアイドル
+
+sys_story_b11 人太祭 举办中！ SweiB2SansCJKsc-Bold.ttf
+sys_story_b21 新婚妻子会梦想当偶像吗？ 
+sys_story_b22 淑女的假日
+sys_story_b23 与此同时…… /n※师父，在幕后大显身手
+sys_story_b24 回归之处
+sys_story_b31-32-34 冤罪事件 发生中！Lost
+sys_story_b33 寻找鵺
+sys_story_b41-42-44（左上） YKT3 LIVE！
+sys_story_b43（左上） 黑白MC！
+sys_story_b51 妻子是太转依巫女偶像！
+sys_story_b52 夜之淑女
+sys_story_b53 最后的两个人
+sys_story_b54 独一无二的偶像

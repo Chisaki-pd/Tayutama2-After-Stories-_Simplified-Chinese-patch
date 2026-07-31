@@ -1,0 +1,72 @@
+SGMsgWnd600014 おじさん
+SGMsgWnd600015 お爺さん
+SGMsgWnd600016 カラオケ店員
+SGMsgWnd600017 男の子
+SGMsgWnd600018 おばさん
+SGMsgWnd600019 キャスター
+SGMsgWnd600020 メイド
+SGMsgWnd600021 院長先生
+SGMsgWnd600022 女子学院生
+SGMsgWnd600034 地区長
+SGMsgWnd600040 カフェにいた男子
+SGMsgWnd600043 おばさん
+SGMsgWnd600045 八幡
+SGMsgWnd600051 こはく&ましろ
+SGMsgWnd600055 警官に化けた太転依
+SGMsgWnd600056 優しい目の女性
+SGMsgWnd600057 目力のある女性
+SGMsgWnd600058 オーナー
+SGMsgWnd600060 小さな太転依
+SGMsgWnd600061 先生っぽい人
+SGMsgWnd600063 屋台のおじさん
+SGMsgWnd600064 近所のおじいさん
+SGMsgWnd600066 学院生
+SGMsgWnd600070 ハンナ 
+SGMsgWnd600071 お母さん
+SGMsgWnd600072 ましろと裕理 
+SGMsgWnd600073 みんな 
+SGMsgWnd600074 来賓の紳士
+SGMsgWnd600076 屋台のお兄さん
+SGMsgWnd600077 警備員
+SGMsgWnd600080 相談に来た女性
+SGMsgWnd600083 観客 
+SGMsgWnd600084 ステージスタッフ
+
+相談に来た女性Ｂ-前来咨询的女性B 相談に来た女性Ａ-前来咨询的女性A ハンナ-汉娜 こはく-琥珀 龍子-龙子 アメリ-艾米丽 空＆菜乃-空＆菜乃 
+
+
+SGMsgWnd600014 大叔
+SGMsgWnd600015 老爷爷
+SGMsgWnd600016 卡拉OK店员
+SGMsgWnd600017 男孩
+SGMsgWnd600018 大妈
+SGMsgWnd600019 报道员
+SGMsgWnd600020 女仆
+SGMsgWnd600021 院长老师
+SGMsgWnd600022 女学院生
+SGMsgWnd600034 地区长
+SGMsgWnd600040 咖啡馆里的男子
+SGMsgWnd600043 阿姨
+SGMsgWnd600045 八幡
+SGMsgWnd600051 琥珀&真白
+SGMsgWnd600055 化作警官的太转依
+SGMsgWnd600056 眼神温柔的女性
+SGMsgWnd600057 有眼力的女性
+SGMsgWnd600058 老板
+SGMsgWnd600060 小小的太转依
+SGMsgWnd600061 像老师的人
+SGMsgWnd600063 路边摊大叔
+SGMsgWnd600064 邻居老爷爷
+SGMsgWnd600066 学院学生
+SGMsgWnd600070 汉娜
+SGMsgWnd600071 妈妈
+SGMsgWnd600072 真白与裕理
+SGMsgWnd600073 大家
+SGMsgWnd600074 来宾的绅士
+SGMsgWnd600076 路边摊小哥
+SGMsgWnd600077 警卫
+SGMsgWnd600080 前来咨询的女性
+SGMsgWnd600083 观众
+SGMsgWnd600084 舞台工作人员
+
+
