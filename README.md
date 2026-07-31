@@ -95,7 +95,7 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 ## 补丁安装
 
-下载链接1：[GitHub]（）选择下载汉化补丁包（约219MB），解压密码：0721。
+下载链接1：[GitHub]（https://github.com/Chisaki-pd/Tayutama2-After-Stories-_Simplified-Chinese-patch/releases/tag/v1.20）选择下载汉化补丁包（约219MB），解压密码：0721。
 
 下载链接2：[百度网盘](https://pan.baidu.com/s/1VtRyUHCWLnz5zWEqOTBNWw?pwd=0721)，提取码＆解压密码：0721。
 
@@ -103,15 +103,29 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 下载文件后，解压文件。你会得到以下文件。
 
-[安装1]（install1.png）
+![安装1]（./install1.png）
 
 我们需要把TayutamaAS-utf8_CHS.exe，tytm2as.cn文件复制到游戏根目录下，双击运行TayutamaAS-utf8_CHS.exe。
 
-[安装2]（install2.png）
+![安装2]（./install2.png）
 
 压缩包内附带字体文件“思源黑体M”，推荐安装使用该字体。
 
 **主程序TayutamaAS-utf8_CHS.exe借鉴使用了夏梦方糖社同好会的开源项目，在此表示感谢**
+
+## 历史汉化版本详情
+
+ver1.20 汉化：2026.07.25
+修正：重校对、润色及修正游戏剧本。修复章节『绯文接受的理由』部分闪退问题。修正设定项目中的文本错误。
+汉化：增添部分CG的内容汉化。
+
+
+ver1.10 汉化：2026.06.21
+修正：修正部分转场CG显示错位问题，修正部分文本内容，修正『story（故事）』部分CG文本翻译错误问题。
+
+ver 1.00 汉化：2026.06.18
+汉化：系统UI，CG，图标，OP动画嵌字。
+
 
 ## Staff
 
