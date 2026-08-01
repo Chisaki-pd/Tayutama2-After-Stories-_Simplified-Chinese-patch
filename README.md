@@ -95,7 +95,7 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 ## 补丁安装
 
-下载链接1：[GitHub]（https://github.com/Chisaki-pd/Tayutama2-After-Stories-_Simplified-Chinese-patch/releases/tag/v1.20）选择下载汉化补丁包（约219MB），解压密码：0721。
+下载链接1：[GitHub](https://github.com/Chisaki-pd/Tayutama2-After-Stories-_Simplified-Chinese-patch/releases/tag/v1.20)选择下载汉化补丁包（约219MB），解压密码：0721。
 
 下载链接2：[百度网盘](https://pan.baidu.com/s/1VtRyUHCWLnz5zWEqOTBNWw?pwd=0721)，提取码＆解压密码：0721。
 
