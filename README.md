@@ -5,7 +5,7 @@
 
 本补丁部分内容的第一作者归属夏梦方糖社同好会，本页部分内容也根据其要求进行添加。
 
-Lump of sugar 是 方糖社 (https://lumpofsugar.co.jp) 的商标。
+Lump of sugar 是 [方糖社](https://lumpofsugar.co.jp) 的商标。
 
 素材来源于lumpofsugar.co.jp，版权归属方糖社所有。 出于汉化目的所做修改的文件版权归属于补丁制作者。
 
@@ -95,7 +95,7 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 ## 补丁安装
 
-下载链接1：[GitHub](https://github.com/Chisaki-pd/Tayutama2-After-Stories-_Simplified-Chinese-patch/releases/tag/v1.20)选择下载汉化补丁包（约219MB），解压密码：0721。
+下载链接1：[GitHub](https://github.com/Chisaki-pd/Tayutama2-After-Stories-_Simplified-Chinese-patch/releases/tag/v1.20)，选择下载汉化补丁包（约219MB），解压密码：0721。
 
 下载链接2：[百度网盘](https://pan.baidu.com/s/1VtRyUHCWLnz5zWEqOTBNWw?pwd=0721)，提取码＆解压密码：0721。
 
@@ -127,16 +127,16 @@ GNU AGPL 要求在派生作品中保留原始软件的许可证和源代码信�
 
 ## 历史汉化版本详情
 
-ver1.20 汉化：2026.07.25
+ver_1.20 汉化：2026.07.25
 修正：重校对、润色及修正游戏剧本。修复章节『绯文接受的理由』部分闪退问题。修正设定项目中的文本错误。
 汉化：增添部分CG的内容汉化。
 
 
-ver1.10 汉化：2026.06.21
+ver_1.10 汉化：2026.06.21
 修正：修正部分转场CG显示错位问题，修正部分文本内容，修正『story（故事）』部分CG文本翻译错误问题。
 
 
-ver 1.00 汉化：2026.06.18
+ver_1.00 汉化：2026.06.18
 汉化：系统UI，CG，图标，OP动画嵌字。
 
 
